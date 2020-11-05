@@ -1,0 +1,9 @@
+{
+  "domain": "wiser",
+  "name": "Wiser Heating Component for Home Assistant",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/wiser",
+  "dependencies": [],
+  "codeowners": ["@asantaga", "@msp1974"],
+  "requirements": ["wiser-heating-api==1.0.8.1"]
+}
